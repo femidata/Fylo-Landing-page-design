@@ -26,33 +26,29 @@ Users should be able to:
 
 ### Screenshot
 
+Below is the full image of the screenshot of the designed site all done
 ![](./Screenshots/Full.jpg)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/femidata/Fylo-Landing-page-design)
-- Live Site URL: [Add live site URL here](https://github.com/femidata/Fylo-Landing-page-design)
+- Solution URL: [Fylo Design Repo](https://github.com/femidata/Fylo-Landing-page-design)
+- Live Site URL: [Fylo Landing Page](modest-mirzakhani-124d9b.netlify.app)
 
 ## My process
 
 ### Built with
+The website was built using the following
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- HTML
+- CSS
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I learnt the use of CSS in this project 
 
 To see how you can add code snippets, see below:
 
@@ -70,7 +66,7 @@ const proudOfThisFunc = () => {
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+If you want to learn more about  help  [W3School](https://www.w3schools.com/css/) to learn more.
 
 **Note: Delete this note and the content within this section and replace with your own learnings.**
 
